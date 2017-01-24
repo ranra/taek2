@@ -42,10 +42,8 @@ Open-ended questions allow customers to explain the details of the problem in th
 Based on the information from the customer, you can proceed with closed-ended questions. Closed-ended questions generally require a yes or no answer.
 
 
-
-
-
-
+8. Hvað eru jaðartæki?
+:Jaðartækin sjá um samskiptin milli þín og tölvunnar (miðverksins). Með þeim sendir þú gögn eða boð til tölvunnar og  árangurinn kemur í ljós á skjánum eða í útprentun.
 
 
 
