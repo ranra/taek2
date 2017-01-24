@@ -23,6 +23,13 @@ hægt er að forðast þetta með þvi að nota réttan bunað t.d.  anti static
 5.hvað þarf að hafa i huga þegar er verið að velja spennugjafa?.
 : hversu mikið afl þarftu,  og að velja einhvern traustan og goðan aflgjafa.
 
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+:step1:identify the problem.
+step2:establish a theory of probable cause.
+step3:test the theory to determine cause.
+step4:establish a plan of action to resolve the problem and implement the solution.
+step5:verify full system funtionality anf if applicable implement prevejtiive measures.
+step6:document findings,actions,and outcomes.
 
 
 
