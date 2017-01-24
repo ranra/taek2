@@ -33,7 +33,13 @@ step6:document findings,actions,and outcomes.
 
 
 
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
 
+Open-ended questions allow customers to explain the details of the problem in their own words. Use open-ended questions to obtain general information.
+
+
+Based on the information from the customer, you can proceed with closed-ended questions. Closed-ended questions generally require a yes or no answer.
 
 
 
