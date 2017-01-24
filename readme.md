@@ -46,6 +46,9 @@ Based on the information from the customer, you can proceed with closed-ended qu
 :Jaðartækin sjá um samskiptin milli þín og tölvunnar (miðverksins). Með þeim sendir þú gögn eða boð til tölvunnar og  árangurinn kemur í ljós á skjánum eða í útprentun.
 
 
+9. Nefndu þrjú dæmi um inntakstæki.
+mús,lyklaborð,vefmyndavél.
+
 
 
 
