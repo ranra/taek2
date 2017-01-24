@@ -20,8 +20,8 @@ verjast því þegar unnið er með tölvubúnað?
 :Electrostatic Discharge,can occur when there is a buildup of an electric charge (static electricity) that exists on a surface which comes into contact with another.
 hægt er að forðast þetta með þvi að nota réttan bunað t.d.  anti static mottur eða armbönd.
 
-
-
+5.hvað þarf að hafa i huga þegar er verið að velja spennugjafa?.
+: hversu mikið afl þarftu,  og að velja einhvern traustan og goðan aflgjafa.
 
 
 
