@@ -49,6 +49,19 @@ Based on the information from the customer, you can proceed with closed-ended qu
 9. Nefndu þrjú dæmi um inntakstæki.
 mús,lyklaborð,vefmyndavél.
 
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+motherboard:Asus Z170-Pro Gaming @att.is kr:27.855
+cpu:Intel i7 7700k 4.2 ~ 4.5 GHz @att.is  kr:54.750  
+ram:8 GB (2x4 GB) 2133 MHz @att.is kr:8.450
+ssd:500 GB Samsung 850 EVO @ att.is kr:26.950
+skjákort: Geforce GTX 1080 8 GB @ att.is kr:111.950
+power supply:Corsair CX750M 750W @ att.is kr18.750
+
+þetta eru allt bestu hlutirnir i verkið þarf ekki að útskýra það sýnir sig sjálft
+og  meira að segja 1295 kr í afgang :)
 
 
 
